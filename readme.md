@@ -34,7 +34,7 @@ Scikit-learn (for model preprocessing)
 
 
 ## Clone the repository
-git clone <repository_link>
+git clone <https://github.com/Prakriti24052/Customer_churn_prediction.git>
 cd Churn-Prediction-App
 
 
